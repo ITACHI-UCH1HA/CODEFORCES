@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODEFORCES.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_09/Beautiful_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_09/Next_Round.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_09/Restoring_Three_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_11/Rigged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_12_october/Dont_Try_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_12_october/Perfect_Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_12_october/Three_Threadlets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +42,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rigged">
-    <configuration name="Beautiful_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.Month_10.Date_09.Beautiful_Matrix" />
+  <component name="RunManager" selected="Application.Dont_Try_Count">
+    <configuration name="DontTryCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_12_october.DontTryCount" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.Month_10.Date_09.*" />
+          <option name="PATTERN" value="Contests.Date_12_october.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Next_Round" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.Month_10.Date_09.Next_Round" />
+    <configuration name="Dont_Try_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_12_october.Dont_Try_Count" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.Month_10.Date_09.*" />
+          <option name="PATTERN" value="Contests.Date_12_october.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Restoring_Three_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.Month_10.Date_09.Restoring_Three_Numbers" />
+    <configuration name="Perfect_Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_12_october.Perfect_Square" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.Month_10.Date_09.*" />
+          <option name="PATTERN" value="Contests.Date_12_october.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rigged2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.Month_10.Date_11.Rigged2" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_12_october.main" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.Month_10.Date_11.*" />
+          <option name="PATTERN" value="Contests.Date_12_october.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dont_Try_Count" />
+        <item itemvalue="Application.DontTryCount" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Perfect_Square" />
         <item itemvalue="Application.Rigged" />
-        <item itemvalue="Application.Rigged2" />
-        <item itemvalue="Application.Beautiful_Matrix" />
-        <item itemvalue="Application.Next_Round" />
-        <item itemvalue="Application.Restoring_Three_Numbers" />
       </list>
     </recent_temporary>
   </component>
