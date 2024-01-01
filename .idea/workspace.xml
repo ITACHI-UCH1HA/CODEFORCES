@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_13/Bit_Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_13/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_22_october/Chemistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_22_october/morning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_24_April/Dice_Deception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_24_April/Domino_Piling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_24_April/Gotta_Catch_Em_All.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_24_April/K_Closeness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_24_April/Petya_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_24_April/Remaining_Neighbours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Date_25_April/Radev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_13/Boy_Or_Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_14/Erase_1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_15/Three_Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_16/Sum_of_three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/Month_10/Date_16/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contests/Date_12_october/Three_Threadlets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contests/Date_12_october/Three_Threadlets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,27 +40,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2WVasQ0sTHzQVEzkQes9bAVtUyp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/CODEFORCES",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CODEFORCES&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Bit_Plus">
-    <configuration name="Bit_Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.Month_10.Date_13.Bit_Plus" />
+}</component>
+  <component name="RunManager" selected="Application.K_Closeness">
+    <configuration name="Chemistry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_22_october.Chemistry" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.Month_10.Date_13.*" />
+          <option name="PATTERN" value="Contests.Date_22_october.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DontTryCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Date_12_october.DontTryCount" />
+    <configuration name="Dice_Deception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_24_April.Dice_Deception" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.Date_12_october.*" />
+          <option name="PATTERN" value="Contests.Date_24_April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dont_Try_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Date_12_october.Dont_Try_Count" />
+    <configuration name="Gotta_Catch_Em_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_24_April.Gotta_Catch_Em_All" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.Date_12_october.*" />
+          <option name="PATTERN" value="Contests.Date_24_April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Team" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.Month_10.Date_13.Team" />
+    <configuration name="K_Closeness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_24_April.K_Closeness" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.Month_10.Date_13.*" />
+          <option name="PATTERN" value="Contests.Date_24_April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Date_12_october.main" />
+    <configuration name="Radev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Date_25_April.Radev" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.Date_12_october.*" />
+          <option name="PATTERN" value="Contests.Date_25_April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bit_Plus" />
-        <item itemvalue="Application.Team" />
-        <item itemvalue="Application.Dont_Try_Count" />
-        <item itemvalue="Application.DontTryCount" />
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.K_Closeness" />
+        <item itemvalue="Application.Radev" />
+        <item itemvalue="Application.Dice_Deception" />
+        <item itemvalue="Application.Gotta_Catch_Em_All" />
+        <item itemvalue="Application.Chemistry" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +158,11 @@
           <url>file://$PROJECT_DIR$/src/Year_2023/Month_10/Date_09/Beautiful_Matrix.java</url>
           <line>25</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Year_2023/Month_10/Date_13/Bit_Plus.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
