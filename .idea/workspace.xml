@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_17/AboveTheClouds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_17/Copied.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_17/LetterHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_17/Problem1709.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_17/ThoseWhoAreWithUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_20/EverybodyLikesGoodArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_20/OneAndTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +40,7 @@
   "keyToString": {
     "Application.AboveTheClouds.executor": "Run",
     "Application.LetterHome.executor": "Run",
+    "Application.OneAndTwo.executor": "Run",
     "Application.ThoseWhoAreWithUs.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,7 +51,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThoseWhoAreWithUs">
+  <component name="RunManager" selected="Application.OneAndTwo">
     <configuration name="AboveTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year_2025.month_06.date_17.AboveTheClouds" />
       <module name="CODEFORCES" />
@@ -93,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Radev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Date_25_April.Radev" />
+    <configuration name="OneAndTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_06.date_20.OneAndTwo" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.Date_25_April.*" />
+          <option name="PATTERN" value="year_2025.month_06.date_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OneAndTwo" />
         <item itemvalue="Application.ThoseWhoAreWithUs" />
         <item itemvalue="Application.AboveTheClouds" />
         <item itemvalue="Application.LetterHome" />
         <item itemvalue="Application.K_Closeness" />
-        <item itemvalue="Application.Radev" />
       </list>
     </recent_temporary>
   </component>
