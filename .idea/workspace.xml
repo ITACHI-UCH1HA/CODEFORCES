@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_20/EverybodyLikesGoodArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_06/date_20/OneAndTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_01/BlackboardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_01/PrefixMinAndSuffixMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_01/Tournament.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +40,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AboveTheClouds.executor": "Run",
+    "Application.BlackboardGame.executor": "Run",
     "Application.LetterHome.executor": "Run",
     "Application.OneAndTwo.executor": "Run",
+    "Application.PrefixMinAndSuffixMax.executor": "Run",
     "Application.ThoseWhoAreWithUs.executor": "Run",
+    "Application.Tournament.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -51,39 +55,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OneAndTwo">
-    <configuration name="AboveTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_06.date_17.AboveTheClouds" />
+  <component name="RunManager" selected="Application.PrefixMinAndSuffixMax">
+    <configuration name="BlackboardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_01.BlackboardGame" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_06.date_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="K_Closeness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Date_24_April.K_Closeness" />
-      <module name="CODEFORCES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.Date_24_April.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LetterHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_06.date_17.LetterHome" />
-      <module name="CODEFORCES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="year_2025.month_06.date_17.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrefixMinAndSuffixMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_01.PrefixMinAndSuffixMax" />
+      <module name="CODEFORCES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="year_2025.month_07.date_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThoseWhoAreWithUs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year_2025.month_06.date_17.ThoseWhoAreWithUs" />
       <module name="CODEFORCES" />
@@ -117,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_01.Tournament" />
+      <module name="CODEFORCES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="year_2025.month_07.date_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrefixMinAndSuffixMax" />
+        <item itemvalue="Application.BlackboardGame" />
+        <item itemvalue="Application.Tournament" />
         <item itemvalue="Application.OneAndTwo" />
         <item itemvalue="Application.ThoseWhoAreWithUs" />
-        <item itemvalue="Application.AboveTheClouds" />
-        <item itemvalue="Application.LetterHome" />
-        <item itemvalue="Application.K_Closeness" />
       </list>
     </recent_temporary>
   </component>
