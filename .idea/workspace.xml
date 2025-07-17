@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_13/BlankSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_13/UnitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/IWillDefinitelyMakeIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/NoCasinoInMountains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/OnlyOneDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/ThisIstheLastTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +44,14 @@
     "Application.AboveTheClouds.executor": "Run",
     "Application.BlackboardGame.executor": "Run",
     "Application.BlankSpace.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.IWillDefinitelyMakeIt.executor": "Run",
     "Application.LetterHome.executor": "Run",
+    "Application.NoCasinoInMountains.executor": "Run",
     "Application.OneAndTwo.executor": "Run",
+    "Application.OnlyOneDigit.executor": "Run",
     "Application.PrefixMinAndSuffixMax.executor": "Run",
+    "Application.ThisIstheLastTime.executor": "Run",
     "Application.ThoseWhoAreWithUs.executor": "Run",
     "Application.Tournament.executor": "Run",
     "Application.UnitArray.executor": "Run",
@@ -56,13 +64,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UnitArray">
-    <configuration name="BlackboardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_01.BlackboardGame" />
+  <component name="RunManager" selected="Application.ThisIstheLastTime">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.Demo" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_01.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlankSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_13.BlankSpace" />
+    <configuration name="IWillDefinitelyMakeIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.IWillDefinitelyMakeIt" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_13.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixMinAndSuffixMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_01.PrefixMinAndSuffixMax" />
+    <configuration name="NoCasinoInMountains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.NoCasinoInMountains" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_01.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_01.Tournament" />
+    <configuration name="OnlyOneDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.OnlyOneDigit" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_01.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_13.UnitArray" />
+    <configuration name="ThisIstheLastTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.ThisIstheLastTime" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_13.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnitArray" />
-        <item itemvalue="Application.BlankSpace" />
-        <item itemvalue="Application.PrefixMinAndSuffixMax" />
-        <item itemvalue="Application.BlackboardGame" />
-        <item itemvalue="Application.Tournament" />
+        <item itemvalue="Application.ThisIstheLastTime" />
+        <item itemvalue="Application.IWillDefinitelyMakeIt" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.NoCasinoInMountains" />
+        <item itemvalue="Application.OnlyOneDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +168,16 @@
           <url>file://$PROJECT_DIR$/src/Year_2023/Month_10/Date_13/Bit_Plus.java</url>
           <line>8</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/year_2025/month_07/date_17/NoCasinoInMountains.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/year_2025/month_07/date_17/IWillDefinitelyMakeIt.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
