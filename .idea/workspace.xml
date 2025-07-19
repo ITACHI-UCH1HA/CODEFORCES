@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/IWillDefinitelyMakeIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/NoCasinoInMountains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/OnlyOneDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_17/ThisIstheLastTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_10/AlternatingSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_10/Lever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_22/DifficultContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_22/TheaterSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_22/Watermelon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,15 +42,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AboveTheClouds.executor": "Run",
+    "Application.AlternatingSeries.executor": "Run",
     "Application.BlackboardGame.executor": "Run",
     "Application.BlankSpace.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.IWillDefinitelyMakeIt.executor": "Run",
     "Application.LetterHome.executor": "Run",
+    "Application.Lever.executor": "Run",
     "Application.NoCasinoInMountains.executor": "Run",
     "Application.OneAndTwo.executor": "Run",
     "Application.OnlyOneDigit.executor": "Run",
     "Application.PrefixMinAndSuffixMax.executor": "Run",
+    "Application.TheaterSquare.executor": "Run",
     "Application.ThisIstheLastTime.executor": "Run",
     "Application.ThoseWhoAreWithUs.executor": "Run",
     "Application.Tournament.executor": "Run",
@@ -64,13 +67,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThisIstheLastTime">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.Demo" />
+  <component name="RunManager" selected="Application.AlternatingSeries">
+    <configuration name="AlternatingSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_10.AlternatingSeries" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoCasinoInMountains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.NoCasinoInMountains" />
+    <configuration name="Lever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_10.Lever" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlyOneDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.OnlyOneDigit" />
+    <configuration name="TheaterSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_22.TheaterSquare" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
+          <option name="PATTERN" value="year_2025.month_07.date_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlternatingSeries" />
+        <item itemvalue="Application.Lever" />
+        <item itemvalue="Application.TheaterSquare" />
         <item itemvalue="Application.ThisIstheLastTime" />
         <item itemvalue="Application.IWillDefinitelyMakeIt" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.NoCasinoInMountains" />
-        <item itemvalue="Application.OnlyOneDigit" />
       </list>
     </recent_temporary>
   </component>
