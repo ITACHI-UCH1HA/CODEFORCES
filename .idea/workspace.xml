@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_10/AlternatingSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_10/Lever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_22/DifficultContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_22/TheaterSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_07/date_22/Watermelon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_08/date_24/CoverWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_08/date_30/DontTryToCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_08/date_30/FobiddenInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,10 @@
     "Application.AlternatingSeries.executor": "Run",
     "Application.BlackboardGame.executor": "Run",
     "Application.BlankSpace.executor": "Run",
+    "Application.CoverWater.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.DontTryToCount.executor": "Run",
+    "Application.FobiddenInteger.executor": "Run",
     "Application.IWillDefinitelyMakeIt.executor": "Run",
     "Application.LetterHome.executor": "Run",
     "Application.Lever.executor": "Run",
@@ -67,7 +68,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AlternatingSeries">
+  <component name="RunManager" selected="Application.DontTryToCount">
     <configuration name="AlternatingSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_10.AlternatingSeries" />
       <module name="CODEFORCES" />
@@ -81,12 +82,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IWillDefinitelyMakeIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.IWillDefinitelyMakeIt" />
+    <configuration name="CoverWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_08.date_24.CoverWater" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
+          <option name="PATTERN" value="year_2025.month_08.date_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DontTryToCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_08.date_30.DontTryToCount" />
+      <module name="CODEFORCES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="year_2025.month_08.date_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FobiddenInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_08.date_30.FobiddenInteger" />
+      <module name="CODEFORCES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="year_2025.month_08.date_30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,39 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheaterSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_22.TheaterSquare" />
-      <module name="CODEFORCES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThisIstheLastTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_17.ThisIstheLastTime" />
-      <module name="CODEFORCES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DontTryToCount" />
+        <item itemvalue="Application.FobiddenInteger" />
+        <item itemvalue="Application.CoverWater" />
         <item itemvalue="Application.AlternatingSeries" />
         <item itemvalue="Application.Lever" />
-        <item itemvalue="Application.TheaterSquare" />
-        <item itemvalue="Application.ThisIstheLastTime" />
-        <item itemvalue="Application.IWillDefinitelyMakeIt" />
       </list>
     </recent_temporary>
   </component>
