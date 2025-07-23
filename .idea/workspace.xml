@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_08/date_24/CoverWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_08/date_30/DontTryToCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_08/date_30/FobiddenInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/DoremysPaint3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/GoalsOfVictory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/HowMuchDoesDaytonaCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/TargetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/TargetPracticeOptimized.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +17,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +52,10 @@
     "Application.CoverWater.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DontTryToCount.executor": "Run",
+    "Application.DoremysPaint3.executor": "Run",
     "Application.FobiddenInteger.executor": "Run",
+    "Application.GoalsOfVictory.executor": "Run",
+    "Application.HowMuchDoesDaytonaCost.executor": "Run",
     "Application.IWillDefinitelyMakeIt.executor": "Run",
     "Application.LetterHome.executor": "Run",
     "Application.Lever.executor": "Run",
@@ -54,6 +63,8 @@
     "Application.OneAndTwo.executor": "Run",
     "Application.OnlyOneDigit.executor": "Run",
     "Application.PrefixMinAndSuffixMax.executor": "Run",
+    "Application.TargetPractice.executor": "Run",
+    "Application.TargetPracticeOptimized.executor": "Run",
     "Application.TheaterSquare.executor": "Run",
     "Application.ThisIstheLastTime.executor": "Run",
     "Application.ThoseWhoAreWithUs.executor": "Run",
@@ -65,16 +76,19 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/100 Days DSA/100-Days-Of-DSA",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DontTryToCount">
-    <configuration name="AlternatingSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_10.AlternatingSeries" />
+  <component name="RunManager" selected="Application.TargetPracticeOptimized">
+    <configuration name="DoremysPaint3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.DoremysPaint3" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_10.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoverWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_08.date_24.CoverWater" />
+    <configuration name="GoalsOfVictory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.GoalsOfVictory" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_08.date_24.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DontTryToCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_08.date_30.DontTryToCount" />
+    <configuration name="HowMuchDoesDaytonaCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.HowMuchDoesDaytonaCost" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_08.date_30.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FobiddenInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_08.date_30.FobiddenInteger" />
+    <configuration name="TargetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.TargetPractice" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_08.date_30.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_07.date_10.Lever" />
+    <configuration name="TargetPracticeOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_07.TargetPracticeOptimized" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_07.date_10.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DontTryToCount" />
-        <item itemvalue="Application.FobiddenInteger" />
-        <item itemvalue="Application.CoverWater" />
-        <item itemvalue="Application.AlternatingSeries" />
-        <item itemvalue="Application.Lever" />
+        <item itemvalue="Application.TargetPracticeOptimized" />
+        <item itemvalue="Application.TargetPractice" />
+        <item itemvalue="Application.GoalsOfVictory" />
+        <item itemvalue="Application.HowMuchDoesDaytonaCost" />
+        <item itemvalue="Application.DoremysPaint3" />
       </list>
     </recent_temporary>
   </component>
