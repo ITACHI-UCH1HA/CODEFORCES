@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188bb0a7-cdf6-46ec-9fc1-05d43e73442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/DoremysPaint3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/GoalsOfVictory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/HowMuchDoesDaytonaCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_06/TargetPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/TargetPracticeOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/AmbitiousKid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/SequenceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/contest/CollatzConjecture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/contest/FunPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/contest/MaxEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/contest/MaximumEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year_2025/month_09/day_07/contest/ReplaceWithOccurences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,22 +49,28 @@
   "keyToString": {
     "Application.AboveTheClouds.executor": "Run",
     "Application.AlternatingSeries.executor": "Run",
+    "Application.AmbitiousKid.executor": "Run",
     "Application.BlackboardGame.executor": "Run",
     "Application.BlankSpace.executor": "Run",
+    "Application.CollatzConjecture.executor": "Run",
     "Application.CoverWater.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DontTryToCount.executor": "Run",
     "Application.DoremysPaint3.executor": "Run",
     "Application.FobiddenInteger.executor": "Run",
+    "Application.FunPermutation.executor": "Run",
     "Application.GoalsOfVictory.executor": "Run",
     "Application.HowMuchDoesDaytonaCost.executor": "Run",
     "Application.IWillDefinitelyMakeIt.executor": "Run",
     "Application.LetterHome.executor": "Run",
     "Application.Lever.executor": "Run",
+    "Application.MaxEvenSum.executor": "Run",
+    "Application.MaximumEvenSum.executor": "Run",
     "Application.NoCasinoInMountains.executor": "Run",
     "Application.OneAndTwo.executor": "Run",
     "Application.OnlyOneDigit.executor": "Run",
     "Application.PrefixMinAndSuffixMax.executor": "Run",
+    "Application.SequenceGame.executor": "Run",
     "Application.TargetPractice.executor": "Run",
     "Application.TargetPracticeOptimized.executor": "Run",
     "Application.TheaterSquare.executor": "Run",
@@ -82,13 +90,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TargetPracticeOptimized">
-    <configuration name="DoremysPaint3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.DoremysPaint3" />
+  <component name="RunManager" selected="Application.MaxEvenSum">
+    <configuration name="CollatzConjecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_07.contest.CollatzConjecture" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_07.contest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoalsOfVictory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.GoalsOfVictory" />
+    <configuration name="FunPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_07.contest.FunPermutation" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_07.contest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowMuchDoesDaytonaCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.HowMuchDoesDaytonaCost" />
+    <configuration name="MaxEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_07.contest.MaxEvenSum" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_07.contest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_06.TargetPractice" />
+    <configuration name="MaximumEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_07.contest.MaximumEvenSum" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year_2025.month_09.day_06.*" />
+          <option name="PATTERN" value="year_2025.month_09.day_07.contest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetPracticeOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_07.TargetPracticeOptimized" />
+    <configuration name="SequenceGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year_2025.month_09.day_07.SequenceGame" />
       <module name="CODEFORCES" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TargetPracticeOptimized" />
-        <item itemvalue="Application.TargetPractice" />
-        <item itemvalue="Application.GoalsOfVictory" />
-        <item itemvalue="Application.HowMuchDoesDaytonaCost" />
-        <item itemvalue="Application.DoremysPaint3" />
+        <item itemvalue="Application.MaxEvenSum" />
+        <item itemvalue="Application.MaximumEvenSum" />
+        <item itemvalue="Application.FunPermutation" />
+        <item itemvalue="Application.CollatzConjecture" />
+        <item itemvalue="Application.SequenceGame" />
       </list>
     </recent_temporary>
   </component>
