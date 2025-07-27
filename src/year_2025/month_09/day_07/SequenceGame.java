@@ -20,18 +20,7 @@ public class SequenceGame {
                 b[i] = parseInt(st.nextToken());
             }
 
-            List<Integer> a = new ArrayList<>();
-            a.add(b[0]);
-            for (int i = 1; i < n; i++) {
-                if (b[i-1] > b[i]) {
-                    // insert something in between to satisfy rule
-                    a.add(b[i-1]); // simplest choice
-                }
-                a.add(b[i]);
-            }
 
-            out.println(a.size());
-            for (int num : a) out.print(num + " ");
             out.println();
         }
 
